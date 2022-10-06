@@ -5,7 +5,7 @@ const compiledFactory = require('./build/CampaignFactory.json'); // Now is the f
 const provider = new HDWalletProvider(
   'ozone risk suffer north hamster speak cannon shaft bike demand anger spoon',
   // remember to change this to your own phrase!
-  'https://rinkeby.infura.io/v3/259164015f264f53842f61f50488a30f'
+  'https://goerli.infura.io/v3/f7c144036ba240b798fb15786096cca5'
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
